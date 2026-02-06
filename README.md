@@ -11,3 +11,11 @@ My Goal is to prepare for an entry-level SOC Analyst / Security Analyst role by 
   2. Host discovery na enumeration
   3. Vulnerability analysis
   4. Log investigation and detection
+
+**Skills Demonstrated:**
+  - TCP/IP troubleshooting
+  - Firewall behavior analysis
+  - Packet inspection
+  - Linux and Windows administration
+  - Network reconnaissance
+  - Security investigation documentation
